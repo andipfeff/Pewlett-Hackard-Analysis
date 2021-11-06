@@ -1,7 +1,7 @@
-# Pewlett-Hackard-Analysis
+# Pewlett Hackard Analysis
 
 ## Overview
-Explain the purpose of this analysis
+An analysis was performed to look at the upcoming retirement eligibility for Pewlett Hackard's current employees. Using PostgresSQL, in pgAdmin4, queries were performed to determine how many employees within each job title will be at retirement age, along with a list of employees who will be eligible to participate in the upcoming mentorship program.
 
 ## Results
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
