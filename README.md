@@ -5,6 +5,7 @@ An analysis was performed to look at the upcoming retirement eligibility for Pew
 
 ## Results
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+![retirement_by_title](https://user-images.githubusercontent.com/90863226/140658991-c969ac80-6792-4d94-95ae-ed085db02764.png)
 
 - point 1
 - point 2
