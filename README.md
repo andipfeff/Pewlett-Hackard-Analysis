@@ -5,12 +5,16 @@ An analysis was performed to look at the upcoming retirement eligibility for Pew
 
 ## Results
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-![retirement_by_title](https://user-images.githubusercontent.com/90863226/140658991-c969ac80-6792-4d94-95ae-ed085db02764.png)
 
-- point 1
-- point 2
-- point 3
+- 90,398 employees are about to retire
+
+- The following tables shows the retiree split between titles
+
+![retirement_by_title](https://user-images.githubusercontent.com/90863226/140658991-c969ac80-6792-4d94-95ae-ed085db02764.png)
+- 15,141 of the retirees are eligible to participate in the mentorship program
+
 - point 4
+
 
 ## Summary
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
